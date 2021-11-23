@@ -2,8 +2,7 @@
 - Front End Engineer | Web Developer 
 - Student of Information Systems at UFSC
 - Bachelor in Architecture and Urbanism 
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/mu4MCcscAZObJu4J3E" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/harry-potter-hogwarts-yanaillustration-mu4MCcscAZObJu4J3E">via GIPHY</a></p>
+<img style="width:20%; height:0; padding-bottom:0; position:relative;" src="https://user-images.githubusercontent.com/42079577/142964164-52d6cdbf-0eda-4cbe-b5d2-bbc7dff0effb.gif" alt="Hermione"/> 
 
 > I like to work as a team and with committed people, I'm communicative, creative and always seeking to learn and teach as much as possible!
 
@@ -13,7 +12,7 @@
 ## Get in Touch
 Linkedin - [ligia-sell](https://www.linkedin.com/in/ligia-sell/)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LlCZcJVnuX8Hv9jJj9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/harry-potter-yanaillustration-LlCZcJVnuX8Hv9jJj9">via GIPHY</a></p>
+<img style="width:20%; height:0; padding-bottom:0; position:relative;" src="https://user-images.githubusercontent.com/42079577/142964338-bf66d390-189a-4586-adcd-babfbd40a48a.gif" alt="Harry"/> 
 
 ##
 <p>Giphy links: <a href="https://giphy.com/gifs/harry-potter-hogwarts-yanaillustration-mu4MCcscAZObJu4J3E">Hermione </a> and 
